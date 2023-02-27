@@ -1,0 +1,163 @@
+body {
+    background-color:#0A0A0A;
+
+}
+
+text1 {
+  color:white;
+  position:absolute;
+  left:20%;
+  right:20%;
+  top:25%;
+}
+
+h6 {
+    color:white;
+}
+
+h1 {
+    color:white;
+}
+
+h2 {
+    color:white;
+}
+
+h3 {
+    color:white;
+}
+
+h4 {
+    color:white;
+}
+
+h5 {
+    color:white;
+    position:absolute;
+    bottom:2%;
+    left:30%;
+    right:30%;
+}
+
+nav {
+  background-color: #0A0A0A;
+  height: 50px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+}
+
+nav li {
+  float: right;
+  height: 100%;
+}
+
+nav a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #141A6F;
+  color:white;
+}
+
+footer {
+  position:relative;
+  top:2000px;
+  bottom:7%;
+}
+
+dealershipinfo1 {
+  color:white;
+  position:absolute;
+  left:20%;
+  right:20%;
+  top:115%;
+}
+
+serverlogo {
+  position:absolute;
+  left:0%;
+  top:0;
+}
+
+AboutUs {
+  font-size:400%;
+  color:#141A6F;
+}
+
+pic2 {
+  position: absolute;
+  left:20%;
+  right:20%;
+  top:60%;
+}
+
+ownership {
+  position:absolute;
+  top:150%;
+  left:30%;
+  right:30%;
+  font-size:250%;
+  color:#141A6F;
+}
+
+pfp1 {
+  position:absolute;
+  top:165%;
+  left:20%;
+  right:50%;
+}
+
+name1 {
+  position:absolute;
+  left:23%;
+  top:190%;
+  color:white;
+}
+
+pfp2 {
+  position:absolute;
+  top:165%;
+  left:30%;
+  right:30%;
+}
+
+name2 {
+  position:absolute;
+  left:40%;
+  right:40%;
+  top:190%;
+  color:white;
+}
+
+pfp3 {
+  position:absolute;
+  top:165%;
+  right:12%;
+}
+
+name3 {
+  position:absolute;
+  right:23%;
+  top:190%;
+  color:white;
+}
+
+staff {
+  position:absolute;
+  top:210%;
+  left:30%;
+  right:30%;
+  font-size:250%;
+  color:#141A6F;
+}
