@@ -148,16 +148,68 @@ pfp3 {
 
 name3 {
   position:absolute;
-  right:23%;
+  right:21.25%;
   top:190%;
   color:white;
 }
 
 staff {
   position:absolute;
-  top:210%;
+  top:205%;
   left:30%;
   right:30%;
   font-size:250%;
   color:#141A6F;
+}
+
+admin1 {
+  position:absolute;
+  left:25%;
+  top:215%;
+}
+
+admin2 {
+  position:absolute;
+  left:38%;
+  top:215%;
+}
+
+admin3 {
+  position:absolute;
+  right:26%;
+  top:215%;
+}
+
+admin4 {
+  position:absolute;
+  right:18%;
+  top:215%;
+}
+
+name4 {
+  position:absolute;
+  top:240%;
+  left:28.5%;
+  color:white;
+}
+
+name5 {
+  position:absolute;
+  top:240%;
+  left:42%;
+  color:white;
+}
+
+name6 {
+  position:absolute;
+  top:240%;
+  right:42.5%;
+  color:white;
+}
+
+name7 {
+  position:absolute;
+  top:240%;
+  right:27.5%;
+  color:white;
 }
