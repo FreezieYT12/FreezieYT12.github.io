@@ -1,1 +1,1 @@
-Dont copy or ur gay
+If you copy this your not straight.
